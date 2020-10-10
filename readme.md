@@ -3,12 +3,12 @@
 
 
 ## Dataset
-The Programme for International Student Assessment (PISA) 2012 study gathered data about student performance: student life: and school quality from 65 countries. The data is expansive in both breadth and depth: so it can be analyzed from a variety of perspectives.
+The Programme for International Student Assessment (PISA) 2012 study gathered data about student performance, student life, and school quality from 65 countries. The data is expansive in both breadth and depth, so it can be analyzed from a variety of perspectives.
 
 [PISA Source Data](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisa2012.csv.zip&sa=D&ust=1554482573645000)
 [PISA Technical Manual](https://www.oecd.org/pisa/pisaproducts/PISA%202012%20Technical%20Report_Chapter%2016.pdf)
 
-The variety of data collected addresses numerous aspects of student life: behavior: culture: history: family: and school characteristics. Due to the significant amount of data available: not all variables could be analyzed. To help focus the analysis: the following characteristics were chosen (column name: followed by description):
+The variety of data collected addresses numerous aspects of student life, behavior, culture, history, family, and school characteristics. Due to the significant amount of data available, not all variables could be analyzed. To help focus the analysis, the following characteristics were chosen (column name, followed by description):
 * student_id: student identification number
 * gender: student gender
 * oecd: country OECD partnership status
@@ -78,5 +78,5 @@ Finding: Parents are the key to a student's academic success.
 * The parent's effect starts early, before the child is born: Parental education has a  positive relationship with student academic success. Parents: Maximize your education to enhance your children's.
 * It continues into the professional world: Parental occupation is linked to gains in family social status, which is linked to higher academic performance.
 * Once the child arrives, start early: Preschool is a great investment in your child's future, regardless of future immigration that may bring new cultures and languages.
-* Hold on till the end: Students with children in the home enjoy a stronger relationship between family social status and academic benefit.
+* Hold on till the end: Students with a parent in the home enjoy a stronger relationship between family social status and academic benefit.
 * Looking to have an extreme impact? It may require a move: The quality of academic performance in some countries is considerably lower than social status would predict. This required calculating an additional variable, performance index, comparing how a country's average academic performance percentile compares to its average social status percentile.
