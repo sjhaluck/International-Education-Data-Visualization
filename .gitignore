@@ -1,4 +1,5 @@
 .ipynb_checkpoints/*
+*.zip
 pisa2012.csv
 pisadict2012.csv
 pisa_summ.csv
