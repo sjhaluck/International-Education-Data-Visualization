@@ -73,5 +73,10 @@ The variety of data collected addresses numerous aspects of student life: behavi
 * When comparing countries on the two extremes of performance as described above, there is a significant difference in the relationship between academic instructional minutes (in math) and student academic performance. The group of highest performing countries have a strong positive relationship between instruction minutes and academic performance, while the group of lowest performing countries have a nearly zero relationship.
 
 ## Key Insights for Presentation
+Finding: Parents are the key to a student's academic success.
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+* The parent's effect starts early, before the child is born: Parental education has a  positive relationship with student academic success. Parents: Maximize your education to enhance your children's.
+* It continues into the professional world: Parental occupation is linked to gains in family social status, which is linked to higher academic performance.
+* Once the child arrives, start early: Preschool is a great investment in your child's future, regardless of future immigration that may bring new cultures and languages.
+* Hold on till the end: Students with children in the home enjoy a stronger relationship between family social status and academic benefit.
+* Looking to have an extreme impact? It may require a move: The quality of academic performance in some countries is considerably lower than social status would predict. This required calculating an additional variable, performance index, comparing how a country's average academic performance percentile compares to its average social status percentile.
